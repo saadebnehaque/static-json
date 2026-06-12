@@ -1,0 +1,136 @@
+{
+    "team": "Brazil",
+    "coach": "Carlo Ancelotti",
+    "players": [
+        {
+            "id": 1,
+            "name": "Alisson Becker",
+            "position": "GK"
+        },
+        {
+            "id": 2,
+            "name": "Ederson Moraes",
+            "position": "GK"
+        },
+        {
+            "id": 3,
+            "name": "Weverton",
+            "position": "GK"
+        },
+        {
+            "id": 4,
+            "name": "Marquinhos",
+            "position": "DF"
+        },
+        {
+            "id": 5,
+            "name": "Gabriel Magalhaes",
+            "position": "DF"
+        },
+        {
+            "id": 6,
+            "name": "Bremer",
+            "position": "DF"
+        },
+        {
+            "id": 7,
+            "name": "Leo Pereira",
+            "position": "DF"
+        },
+        {
+            "id": 8,
+            "name": "Roger Ibanez",
+            "position": "DF"
+        },
+        {
+            "id": 9,
+            "name": "Alex Sandro",
+            "position": "DF"
+        },
+        {
+            "id": 10,
+            "name": "Danilo",
+            "position": "DF"
+        },
+        {
+            "id": 11,
+            "name": "Douglas Santos",
+            "position": "DF"
+        },
+        {
+            "id": 12,
+            "name": "Murillo",
+            "position": "DF"
+        },
+        {
+            "id": 13,
+            "name": "Bruno Guimaraes",
+            "position": "MF"
+        },
+        {
+            "id": 14,
+            "name": "Casemiro",
+            "position": "MF"
+        },
+        {
+            "id": 15,
+            "name": "Lucas Paqueta",
+            "position": "MF"
+        },
+        {
+            "id": 16,
+            "name": "Fabinho",
+            "position": "MF"
+        },
+        {
+            "id": 17,
+            "name": "Danilo Santos",
+            "position": "MF"
+        },
+        {
+            "id": 18,
+            "name": "Ederson",
+            "position": "MF"
+        },
+        {
+            "id": 19,
+            "name": "Neymar Jr",
+            "position": "FW"
+        },
+        {
+            "id": 20,
+            "name": "Vinicius Junior",
+            "position": "FW"
+        },
+        {
+            "id": 21,
+            "name": "Raphinha",
+            "position": "FW"
+        },
+        {
+            "id": 22,
+            "name": "Matheus Cunha",
+            "position": "FW"
+        },
+        {
+            "id": 23,
+            "name": "Gabriel Martinelli",
+            "position": "FW"
+        },
+        {
+            "id": 24,
+            "name": "Endrick",
+            "position": "FW"
+        },
+        {
+            "id": 25,
+            "name": "Igor Thiago",
+            "position": "FW"
+        },
+        {
+            "id": 26,
+            "name": "Rayan",
+            "position": "FW"
+        }
+    ]
+}
