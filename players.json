@@ -60,7 +60,7 @@
             "id": 7,
             "name": "Leo Pereira",
             "position": "DF",
-            "image_url": "https://saadebnehaque.github.io/static-json/photos/leo-pereira.jpg",
+            "image_url": "https://saadebnehaque.github.io/static-json/photos/leo-pereira.jpeg",
             "alt_text": "Leo Pereira",
             "club": "Flamengo",
             "club_logo_url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Flamengo_logo.svg"
@@ -225,7 +225,7 @@
             "image_url": "https://saadebnehaque.github.io/static-json/photos/igor-thiago.jpg",
             "alt_text": "Igor Thiago",
             "club": "Brentford",
-            "club_logo_url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Brentford_FC_crest.svg"
+            "club_logo_url": "https://upload.wikimedia.org/wikipedia/en/2/2a/Brentford_FC_crest.svg"
         },
         {
             "id": 26,
@@ -234,7 +234,7 @@
             "image_url": "https://saadebnehaque.github.io/static-json/photos/rayan.jpg",
             "alt_text": "Rayan",
             "club": "Vasco da Gama",
-            "club_logo_url": "https://upload.wikimedia.org/wikipedia/en/2/23/Vasco_da_Gama.svg"
+            "club_logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Club_de_Regatas_Vasco_da_Gama_logo_%282021%29.svg"
         }
     ]
 }
