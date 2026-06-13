@@ -105,7 +105,7 @@
             "id": 12,
             "name": "Murillo",
             "position": "DF",
-            "image_url": "https://saadebnehaque.github.io/static-json/photos/murillo.jpg",
+            "image_url": "https://saadebnehaque.github.io/static-json/photos/murillo.png",
             "alt_text": "Murillo",
             "club": "Nottingham Forest",
             "club_logo_url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Nottingham_Forest_logo.svg"
@@ -123,7 +123,7 @@
             "id": 14,
             "name": "Casemiro",
             "position": "MF",
-            "image_url": "https://saadebnehaque.github.io/static-json/photos/casemiro.jpg",
+            "image_url": "https://saadebnehaque.github.io/static-json/photos/casemiro.webp",
             "alt_text": "Casemiro",
             "club": "Manchester United",
             "club_logo_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
@@ -177,7 +177,7 @@
             "id": 20,
             "name": "Vinicius Junior",
             "position": "FW",
-            "image_url": "https://saadebnehaque.github.io/static-json/photos/vinicius-junior.jpg",
+            "image_url": "https://saadebnehaque.github.io/static-json/photos/vinicius-junior.webp",
             "alt_text": "Vinicius Junior",
             "club": "Real Madrid",
             "club_logo_url": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg"
