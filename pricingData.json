@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "courseName": "Frontend Fundamentals",
+        "price": 49,
+        "features": [
+            "HTML5",
+            "CSS3",
+            "JavaScript ES6+",
+            "Git & GitHub"
+        ]
+    },
+    {
+        "id": 2,
+        "courseName": "React Masterclass",
+        "price": 89,
+        "features": [
+            "HTML5",
+            "CSS3",
+            "JavaScript ES6+",
+            "React.js",
+            "Tailwind CSS",
+            "Redux",
+            "Firebase"
+        ]
+    },
+    {
+        "id": 3,
+        "courseName": "Full-Stack Development",
+        "price": 149,
+        "features": [
+            "HTML5",
+            "CSS3",
+            "JavaScript ES6+",
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Next.js",
+            "Docker",
+            "AWS"
+        ]
+    },
+    {
+        "id": 4,
+        "courseName": "UI/UX Design Essentials",
+        "price": 59,
+        "features": [
+            "Figma",
+            "Adobe XD",
+            "Wireframing",
+            "Prototyping",
+            "Color Theory"
+        ]
+    },
+    {
+        "id": 5,
+        "courseName": "AI Automation for Business",
+        "price": 199,
+        "features": [
+            "Python",
+            "OpenAI API",
+            "LangChain",
+            "Automation Workflows",
+            "Vector Databases"
+        ]
+    }
+]
