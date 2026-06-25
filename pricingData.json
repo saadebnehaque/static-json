@@ -3,6 +3,7 @@
         "id": 1,
         "courseName": "Frontend Fundamentals",
         "price": 49,
+        "value": false,
         "features": [
             "HTML5",
             "CSS3",
@@ -13,7 +14,7 @@
     {
         "id": 2,
         "courseName": "React Advanced Masterclass",
-        "price": 89,
+        "price": 89,"value": false,
         "features": [
             "HTML5",
             "CSS3",
@@ -27,7 +28,7 @@
     {
         "id": 3,
         "courseName": "Full-Stack Development",
-        "price": 149,
+        "price": 149,"value": true,
         "features": [
             "HTML5",
             "CSS3",
@@ -44,7 +45,7 @@
     {
         "id": 4,
         "courseName": "UI/UX Design Essentials",
-        "price": 59,
+        "price": 59,"value": false,
         "features": [
             "Figma",
             "Adobe XD",
@@ -56,7 +57,7 @@
     {
         "id": 5,
         "courseName": "AI Automation for Business",
-        "price": 199,
+        "price": 199,"value": false,
         "features": [
             "Python",
             "OpenAI API",
