@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "courseName": "Frontend Fundamentals",
+        "courseName": "Frontend",
         "price": 49,
         "features": [
             "HTML5",
