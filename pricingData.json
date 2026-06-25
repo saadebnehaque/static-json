@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "courseName": "Frontend",
+        "courseName": "Frontend Fundamentals",
         "price": 49,
         "features": [
             "HTML5",
@@ -12,7 +12,7 @@
     },
     {
         "id": 2,
-        "courseName": "React Masterclass",
+        "courseName": "React Advanced Masterclass",
         "price": 89,
         "features": [
             "HTML5",
